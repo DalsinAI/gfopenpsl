@@ -15,7 +15,7 @@ We are The AmiCradle Team, who build AmiCradle alongside SacredTrees:
 ## Copyright holder
 
 Our Amiga work here (the build script and the test) is Copyright (c) 2026
-AmigaChrome Team, released under the MIT licence (`LICENSE`). libpsl itself is
+AmiCradle Team, released under the MIT licence (`LICENSE`). libpsl itself is
 not ours: it stays copyright its authors under its own licence, and where a
 patch changes its source, the changed file stays under that licence too.
 
