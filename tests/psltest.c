@@ -1,4 +1,4 @@
-/* openamigapsl smoke test: public suffixes and registrable domains. */
+/* gfopenpsl smoke test: public suffixes and registrable domains. */
 #include <stdio.h>
 #include <libpsl.h>
 int main(void)
