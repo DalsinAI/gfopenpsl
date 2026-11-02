@@ -2,7 +2,7 @@
 
 ## Creator and maintainer
 
-- **SacredTrees** ([@SacredTrees](https://github.com/SacredTrees)): created and maintains this AmigaOS port of libpsl (openamigapsl).
+- **SacredTrees** ([@SacredTrees](https://github.com/SacredTrees)): created and maintains this AmigaOS port of libpsl (gfopenpsl).
 
 ## The AmiCradle team
 
@@ -36,7 +36,7 @@ Only libpsl's licence notices are committed here; its source is not.
 
 ## Used at build time, not included
 
-- **ICU 78**, built by DalsinAI/openamigabrowser's `scripts/build-icu.sh`, under the Unicode licence.
+- **ICU 78**, built by DalsinAI/gfopenbrowser's `scripts/build-icu.sh`, under the Unicode licence.
 - **bebbo's amiga-gcc** (GCC 16.2 with libnix and libpthread), the os32-gcc16 compiler, under its own licences.
 
 Amiga, AmigaOS and other product names are trademarks of their respective
